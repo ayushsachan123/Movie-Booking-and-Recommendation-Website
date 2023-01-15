@@ -1,10 +1,14 @@
-
+# Team Member
+Ayush Sachan
+Shubham Jaiswal
+Siddh Srivastava
+Andril Omer
 
 **Movie Booking and Recommendation Website**
 [![Movie Booking Website](/sample/movie_booking.gif)]()
 
 # Movie-Booking-WebApp
-I built this web application in my sophomore year under Winter Project competition organized by AASF (programming club of the institute). At the end of the competition I secured rank 1 out of the 50+ participants.
+I built this web application in my sophomore year under Mini Project competition organized by Innogeeks (programming club of the institute). At the end of the competition I was runnerup.
 ## Technology Stack
 - NodeJS
 - Express
@@ -50,18 +54,12 @@ Their are two access-views of the website :
 ## Installation
 
 ### Clone 
-- Clone the repository to your local machine using git clone using `https://github.com/prajwal714/Movie-Booking-and-Recommendation-Website.git`
+- Clone the repository to your local machine using git clone using `git@github.com:ayushsachan123/Movie-Booking-and-Recommendation-Website.git`
 
 ### Setup
 - Run `npm install` to install all the packages and dependencies
 - Create a .env file, add the MONGODB_API path corresponding to your MongoDB atlas account in the file.
    A .env.sample file is provided.
-
-## About me
-I am Computer Science Undergrad from IIIT Gwalior. Former intern at GoJek, passionate dev and tech enthusiast. I keep myself involved in building stuff and experimenting with new things. Do checkout my portfolio and connect with me on LinkedIn. 
-- **Portfolio** : <a href="https://prj-prajwal.netlify.app/" target="_blank">`prj-prajwal.netlify.app`</a>
-- **LinkedIn** <a href="https://www.linkedin.com/in/prajwal714/" target="_blank">`linkedin.com/in/prajwal714`</a>
-
 
 
 ## License
