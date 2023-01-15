@@ -1,8 +1,9 @@
 # Team Member
-Ayush Sachan
-Shubham Jaiswal
-Siddh Srivastava
-Andril Omer
+- Ayush Sachan
+- Shubham Jaiswal
+- Siddh Srivastava
+- Andril Omer
+- Prajwal Singh
 
 **Movie Booking and Recommendation Website**
 [![Movie Booking Website](/sample/movie_booking.gif)]()
